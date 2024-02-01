@@ -15,6 +15,7 @@
  🌱 I’m currently learning languages: Python,C++,Html,Css & database:MySQL and PostgresSQL & fremeworks:Django
 
 ⚡️ Fun fact I am student and my birthday 20-10-2008
+[![trophy](https://github-profile-trophy.vercel.app/?username=SardorUraimov123)](https://github.com/Sardor/github-profile-trophy)
 
  <hr/>
  
