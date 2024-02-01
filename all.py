@@ -1,3 +1,4 @@
+Uyga Vazifa
 1# from collections import namedtuple
 
 # def functions(peremetr1, peremetr2):
